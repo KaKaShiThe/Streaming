@@ -196,6 +196,36 @@
         "title"  : "Gang de Requins",
         "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wCRT8jjUrAkITnhC31ZbOWIZpHV.jpg",
         "source" : "https://cdn.hotstream.me/1617/play/1.mp4"
+    },
+    {
+        "id"     : 33,
+        "title"  : "Gran Turismo",
+        "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i6ArJZDy9Iqr3x6HrY4k118HoBn.jpg",
+        "source" : "https://cdn.hotstream.me/370/play/1.mp4"
+    },
+    {
+        "id"     : 34,
+        "title"  : "Blue Beetle",
+        "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gvtMN1IWBqqPYYlPy2saWaPbmP9.jpg",
+        "source" : "https://cdn.hotstream.me/329/play/1.mp4"
+    },
+    {
+        "id"     : 35,
+        "title"  : "Oppenheimer",
+        "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "source" : "https://cdn.hotstream.me/542/play/1.mp4"
+    },
+    {
+        "id"     : 36,
+        "title"  : "Transformers : Rise of the Beasts",
+        "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
+        "source" : "https://cdn.hotstream.me/834/play/1.mp4"
+    },
+    {
+        "id"     : 37,
+        "title"  : "Moi, moche et méchant 4",
+        "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vFbafXs0OYPGW1Vj2VGAHFKpAsW.jpg",
+        "source" : "https://cdn.hotstream.me/1681/play/1.mp4"
     }
     
     
