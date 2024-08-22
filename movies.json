@@ -1924,6 +1924,30 @@
         "title"  : "Le Château dans le ciel",
         "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uU32j2eWvoHIIVyn7QfBg5UaKue.jpg",
         "source" : "https://cdn.hotstream.me/530/play/1.mp4"
+    },
+    {
+        "id"     : 321,
+        "title"  : "Le Tombeau des Lucioles",
+        "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r9a6jyW4CBsQ5QyF12eJC84YdAd.jpg",
+        "source" : "https://cdn.hotstream.me/527/play/1.mp4"
+    },
+    {
+        "id"     : 322,
+        "title"  : "Si tu tends l'oreille",
+        "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y0MAMtcsKSCTq1WJbdsiBa5fckY.jpg",
+        "source" : "https://cdn.hotstream.me/668/play/1.mp4"
+    },
+    {
+        "id"     : 323,
+        "title"  : "Le Royaume des chats",
+        "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eY97YUIyKfQNVugLa3MXVYX4nrw.jpg",
+        "source" : "https://cdn.hotstream.me/667/play/1.mp4"
+    },
+    {
+        "id"     : 324,
+        "title"  : "La Colline aux Coquelicots",
+        "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rpv5r09jKELCC6A9lwB9sOvYTNi.jpg",
+        "source" : "https://cdn.hotstream.me/673/play/1.mp4"
     }
     
     
