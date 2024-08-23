@@ -1948,7 +1948,72 @@
         "title"  : "La Colline aux Coquelicots",
         "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rpv5r09jKELCC6A9lwB9sOvYTNi.jpg",
         "source" : "https://cdn.hotstream.me/673/play/1.mp4"
-    }
+    },
+    {
+        "id"     : 325,
+        "title"  : "Percy Jackson : Le Voleur de foudre",
+        "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7VytSOVN8JsMugBY3Y4KfmQF2QN.jpg",
+        "source" : "https://cdn.hotstream.me/737/play/1.mp4"
+    },
+    {
+        "id"     : 326,
+        "title"  : "Percy Jackson : La Mer des monstres",
+        "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hza4rxwnGvizceTkRxMrp4bS38B.jpg",
+        "source" : "https://cdn.hotstream.me/751/play/1.mp4"
+    },
+    {
+        "id"     : 327,
+        "title"  : "Percy Jackson et les Olympiens",
+        "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/98P2zClO7qmISw2eSWuQ99GUpoJ.jpg",
+        "source" : "https://cdn.hotstream.me/721/play/seasons/1/1.mp4"
+    },
+    {
+        "id"     : 328,
+        "title"  : "Pirates des Caraïbes : La Malédiction du Black Pearl",
+        "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jFmc6zbnx6mSoxejECYvdi3IHIs.jpg",
+        "source" : "https://cdn.hotstream.me/739/play/1.mp4"
+    },
+    {
+        "id"     : 329,
+        "title"  : "Pirates des Caraïbes : Le Secret du coffre maudit",
+        "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bzOlMYEfNmgCDnFHj3zL3RBqwau.jpg",
+        "source" : "https://cdn.hotstream.me/740/play/1.mp4"
+    },
+    {
+        "id"     : 330,
+        "title"  : "Pirates des Caraïbes : Jusqu'au bout du monde",
+        "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3JjceHUzbtgJ4fJs6x2ow4ckH89.jpg",
+        "source" : "https://cdn.hotstream.me/738/play/1.mp4"
+    },
+    {
+        "id"     : 331,
+        "title"  : "Pirates des Caraïbes : La Fontaine de jouvence",
+        "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5JjjjGg24IGRXIQtaZkPU59acjV.jpg",
+        "source" : "https://cdn.hotstream.me/752/play/1.mp4"
+    },
+    {
+        "id"     : 332,
+        "title"  : "Pirates des Caraïbes : La Vengeance de Salazar",
+        "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fVMudKQfhosujwgAKhfxNGfS9sL.jpg",
+        "source" : "https://cdn.hotstream.me/753/play/1.mp4"
+    },
+    {
+        "id"     : 333,
+        "title"  : "Skyscraper",
+        "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/52ml62vClzrlqvXZq2FEW6UF6c1.jpg",
+        "source" : "https://cdn.hotstream.me/1499/play/1.mp4"
+    },
+    {
+        "id"     : 334,
+        "title"  : "La Liste de Schindler",
+        "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vHgf8NE7tXV4DJPEnqVLZDof8fT.jpg",
+        "source" : "https://cdn.hotstream.me/855/play/1.mp4"
+    },
+    {
+        "id"     : 335,
+        "title"  : "West Side Story",
+        "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bIIZD2Lg29vMRtz8ApsuD8iqqmu.jpg",
+        "source" : "https://cdn.hotstream.me/765/play/1.mp4"
     
     
         
