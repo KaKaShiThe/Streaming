@@ -2512,6 +2512,12 @@
         "title"  : "Titanic",
         "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q4hEczAotAptu9GNPZOAXh26DzY.jpg",
         "source" : "https://cdn.hotstream.me/381/play/1.mp4"
+    },
+    {
+        "id"     : 419,
+        "title"  : "Un p'tit truc en plus",
+        "poster" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uIlJ1wOlEt5K3NowJQDG4qscQAC.jpg",
+        "source" : "https://cdn.hotstream.me/1833/play/1.mp4"
     }    
     
     
